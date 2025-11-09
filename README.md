@@ -14,7 +14,7 @@ It includes:
 ## Files
 f1_pitstops_2018_2024.csv - Raw dataset with 100+ races, weather, lap times, stints
 Cleaned_pitstops.csv - Cleaned and pre-processed dataset 
-F1Aggipynb.ipynb - Full analysis, modeling, training, testing and visualization notebook
+F1Agg.ipynb - Full analysis, modeling, training, testing and visualization notebook
 
 ## Key Features
 - Fixes corrupted values in the dataset
