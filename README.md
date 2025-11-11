@@ -22,7 +22,7 @@ F1Agg.ipynb - Full analysis, modeling, training, testing and visualization noteb
 - Predicts using a trained custom transformer architecture
 - Uses SHAP values, various metrics and scores to explain model predictions
 ## How to Run
-1. Clone he repo:
+1. Clone the repo:
 ```bash
 git clone https://github.com/Shashank7490/F1DriverAggressionPredictor.git
 2. Open F1Aggipynb.ipynb in Colab/JupyterLab/VSCode
